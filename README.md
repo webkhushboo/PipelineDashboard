@@ -153,3 +153,4 @@ The format is `<type>(<scope>): #<issue-no> <subject>`, examples...
 
 ## Testing travis CI
 1. Adding another commit with travis integratoin
+2. Checking again with second commit
