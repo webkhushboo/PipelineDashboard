@@ -152,3 +152,4 @@ The format is `<type>(<scope>): #<issue-no> <subject>`, examples...
 3. `firebase emulators:start`
 
 ## Testing travis CI
+1. Adding another commit with travis integratoin
