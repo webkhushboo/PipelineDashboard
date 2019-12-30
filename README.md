@@ -150,3 +150,7 @@ The format is `<type>(<scope>): #<issue-no> <subject>`, examples...
 1. `set GOOGLE_APPLICATION_CREDENTIALS=path\to\key.json`
 2. `firebase setup:emulators:firestore`
 3. `firebase emulators:start`
+
+## Testing travis CI
+1. Adding another commit with travis integratoin
+2. Checking again with second commit
